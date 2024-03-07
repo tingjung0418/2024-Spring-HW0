@@ -65,6 +65,6 @@ $ anvil --help
 $ cast --help
 ```
 ### result
-![result1](https://hackmd.io/_uploads/HysEo086a.png)
+![result1](/hw0/result/result1.png)
 
-![result2](https://hackmd.io/_uploads/Sk3Fs0LTa.png)
+![result2](/hw0/result/result2.png)
